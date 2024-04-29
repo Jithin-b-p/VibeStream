@@ -5,6 +5,13 @@ export default {
     extend: {
       colors: {
         black: "#191624",
+        primary: {
+          blue: {
+            200: "#278EA5",
+            300: "#1F4287",
+            400: "#071E3D",
+          },
+        },
       },
       animation: {
         slideup: "slideup 1s ease-in-out",
